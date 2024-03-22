@@ -1,0 +1,27 @@
+{
+  "name": "atquetempora",
+  "version": "1.0.0",
+  "description": "Get a list of fields while resolving a GraphQL query",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JordaneKoelpin/atquetempora.git"
+  },
+  "author": "MyrtieGoodwin",
+  "license": "MIT",
+  "homepage": "https://github.com/JordaneKoelpin/atquetempora.git",
+  "keywords": [
+    "perspiciatis",
+    "cum",
+    "optio",
+    "graphqlresolveinfo",
+    "repudiandae",
+    "fuga"
+  ],
+  "devDependencies": {
+    "graphql": "^16.8.1",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.4"
+  },
+  "files": []
+}
